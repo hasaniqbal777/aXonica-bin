@@ -35,14 +35,14 @@ To clone and run this application, you'll need [Git](https://git-scm.com). From 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hasaniqbal777/aXonica
+$ git clone https://github.com/hasaniqbal777/aXonica-bin
 
 # Go into the repository
-$ cd aXonica
+$ cd aXonica-bin
 
 # Start Installation
-$ chmod +x aXonica_Setup_enUS.sh
-$ sudo bash aXonica_Setup_enUS.sh
+$ chmod +x aXonica_Setup_enUS
+$ sudo bash aXonica_Setup_enUS
 ```
 
 Follow the on-screen dialogue boxes for installation.
@@ -57,6 +57,9 @@ Follow the on-screen dialogue boxes for installation.
 
 ## 🔑 License
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
+
+## 📙 Docs
+* [User Guide](https://github.com/hasaniqbal777/aXonica/blob/master/Docs/supplementary_user-guide.pdf)
 
 ## 📔 Revision History
 **Version 1.0**
@@ -78,3 +81,8 @@ This project complies against license [GNU General Public License v3.0](https://
  - Software Selection Screen is divided into several screen according to pipeline
  - Download feature added - Only Selected Software are downloaded
  - Software size greatly reduced
+
+ **Version 2.3**
+ - Software Selection Screen is divided into several screen according to pipeline
+ - A number of new software added
+ - User Guide released
