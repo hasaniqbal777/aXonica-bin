@@ -69,3 +69,7 @@ This project complies against license [GNU General Public License v3.0](https://
  - Software Package name changed from NeuroX to aXonica
  - 2 Tools added (Total 20 Tools)
  - A whole installation package (Tools included - no separate downloading)
+
+ **Version 2.1**
+ - 20 Tools added (Total 42 Tools)
+ - Software Selection Screen Added
