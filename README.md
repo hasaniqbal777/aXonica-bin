@@ -73,3 +73,8 @@ This project complies against license [GNU General Public License v3.0](https://
  **Version 2.1**
  - 20 Tools added (Total 42 Tools)
  - Software Selection Screen Added
+
+ **Version 2.2**
+ - Software Selection Screen is divided into several screen according to pipeline
+ - Download feature added - Only Selected Software are downloaded
+ - Software size greatly reduced
