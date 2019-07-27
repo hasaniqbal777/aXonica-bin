@@ -41,8 +41,8 @@ $ git clone https://github.com/hasaniqbal777/aXonica-bin
 $ cd aXonica-bin
 
 # Start Installation
-$ chmod +x aXonica_Setup_enUS
-$ sudo bash aXonica_Setup_enUS
+$ chmod +x aXonica_setup_enUS
+$ sudo bash aXonica_setup_enUS
 ```
 
 Follow the on-screen dialogue boxes for installation.
@@ -86,3 +86,9 @@ This project complies against license [GNU General Public License v3.0](https://
  - Software Selection Screen is divided into several screen according to pipeline
  - A number of new software added
  - User Guide released
+
+ **Version 3.0**
+ - aXonica_UI initial release
+ - Uninstaller added
+ - Tutorial Datasets downloader Added
+ - Bug fixes
