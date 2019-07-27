@@ -60,6 +60,7 @@ This project complies against license [GNU General Public License v3.0](https://
 
 ## 📙 Docs
 * [User Guide](https://github.com/hasaniqbal777/aXonica/blob/master/Docs/supplementary_user-guide.pdf)
+* [Supplementary Tables](https://github.com/hasaniqbal777/aXonica/blob/master/Docs/supplementary_tables.pdf)
 
 ## 📔 Revision History
 **Version 1.0**
@@ -92,3 +93,10 @@ This project complies against license [GNU General Public License v3.0](https://
  - Uninstaller added
  - Tutorial Datasets downloader Added
  - Bug fixes
+
+ **Version 3.1**
+ - Bug fixes
+ - aXonica_UI binaries added
+ - aXonica_UI fixed
+ - User Guide updated with Post Installation
+ - Added Support with Microsoft Windows using Virtualization (See User Guide)
