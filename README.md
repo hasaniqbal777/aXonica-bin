@@ -1,8 +1,12 @@
 <h1 align="center">
-<img width=60% src="https://github.com/hasaniqbal777/aXonica-bin/blob/master/media/logo.png">
+<img width=60% src="https://github.com/hasaniqbal777/aXonica-bin/blob/master/media/logo.svg">
 </h1>
 
 <h4 align="center">A Magnetic Resonance Imaging Solution</h4>
+
+<h2 align="center">
+<img width=65% src="https://github.com/hasaniqbal777/aXonica-bin/blob/master/media/distros.svg">
+</h2>
 
 <p align="center">
 <a href="https://www.gnu.org/licenses/gpl-3.0">
@@ -42,7 +46,7 @@ $ cd aXonica-bin
 
 # Start Installation
 $ chmod +x aXonica_setup_enUS
-$ sudo bash aXonica_setup_enUS
+$ ./aXonica_setup_enUS
 ```
 
 Follow the on-screen dialogue boxes for installation.
@@ -51,16 +55,12 @@ Follow the on-screen dialogue boxes for installation.
  - Bilal Wajid
  - Hasan Iqbal
  - Momina Jamil
- - Ramoona Latif
- - Tayyaba Asif
- - Arslan Khan
 
 ## 🔑 License
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
 
 ## 📙 Docs
 * [User Guide](https://github.com/hasaniqbal777/aXonica/blob/master/Docs/supplementary_user-guide.pdf)
-* [Supplementary Tables](https://github.com/hasaniqbal777/aXonica/blob/master/Docs/supplementary_tables.pdf)
 
 ## 📔 Revision History
 **Version 1.0**
@@ -100,3 +100,6 @@ This project complies against license [GNU General Public License v3.0](https://
  - aXonica_UI fixed
  - User Guide updated with Post Installation
  - Added Support with Microsoft Windows using Virtualization (See User Guide)
+
+ **Version 3.2**
+ - Updated User Interface
