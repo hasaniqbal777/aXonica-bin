@@ -30,9 +30,7 @@
   <a href="#-revision-history">Revision History</a>
 </p>
 
-aXonica is a software solution designed for Magnetic Resonance Imaging (MRI) specifically Neuroimaging. aXonica consist of two components:
- - aXonica Setup - GUI Installation framework which deploys the tools selectively
- - aXonica_UI - An interactive GUI application for execution of installed tools
+aXonica is a software solution designed for Magnetic Resonance Imaging (MRI) specifically Neuroimaging. 
 
 ## 💾 Installation
 To clone and run this application, you'll need [Git](https://git-scm.com). From your command line:
@@ -53,8 +51,8 @@ Follow the on-screen dialogue boxes for installation.
 
 ## 👦 Authors
  - Bilal Wajid
- - Hasan Iqbal
  - Momina Jamil
+ - Hasan Iqbal
 
 ## 🔑 License
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
@@ -103,3 +101,10 @@ This project complies against license [GNU General Public License v3.0](https://
 
  **Version 3.2**
  - Updated User Interface
+ 
+ **Version 4.0**
+ - Bug fixes
+ - Included Matlab-based tools (Total: 28)
+ - Updated overall package (Included Total: 70+ tools)
+ 
+ 
